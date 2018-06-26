@@ -1,0 +1,34 @@
+Multi-Mapper Cartridge version 1.0
+Copyright (c) 2017 RBSC
+
+
+Partslist
+---------
+
+==- Microchips SMD -==
+U1 		- Altera EPM7064SLC44 (PLCC44), 5v
+U2		- AM29F040 FlashROM (TSOP32, PLCC32 or DIP32)
+
+
+==- Capacitors SMD -==
+C1-C2		- Tantal 10uF 10v size B		- 1
+C3-C7 		- 0.1uF size 0603 			- 3
+
+
+==- Resistors SMD -==
+R1-R4		- 1 kOhm size 0603			- 4
+R5-R9		- 10 kOhm size 0603			- 5
+
+
+==- Miscellaneous -==
+Jumper pins	- 90 degree angle jumper pins 2.5mm	- 1x2, 1x2 and 2x4
+Jumpers		- standard jumper 2.5mm			- 2
+
+
+NOTE:
+
+ - Install C1 or C2, installing both is not necessary, mind the polarity!
+ - Install C3, C4 or C5 depending on the installed FlashROM chip
+
+
+See the readme.txt file for more info.
