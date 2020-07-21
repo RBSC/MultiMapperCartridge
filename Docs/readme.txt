@@ -10,12 +10,11 @@ IMPORTANT!
 The Cartridge
 -------------
 
-The Multi-Mapper MSX Cartridge was developed by RBSC to be used commercially, primarily for the shops that
-sell MSX games in cartridges. The MM cartridge can emulate all major MSX mappers - Konami4, Konami5, ASCII8
-and ASCII16. In addition the cartridge supports the "planar" mode, when the data is presented as a 64kb block.
-The cartridge is based on the Altera Max chip (EPM7064SLC44) and includes 512kb FlashROM chip (AM29F040).
-The firmware for the cartridge was created by RBSC. It is possible to upgrade the firmware when necessary with
-the help of USB Blaster programmer via the JTAG connector.
+The MM cartridge can emulate all major MSX mappers - Konami4, Konami5, ASCII8 and ASCII16. In addition the
+cartridge supports the "planar" mode, when the data is presented as a 64kb block. The cartridge is based on
+the Altera Max chip (EPM7064SLC44) and includes 512kb FlashROM chip (AM29F040). The firmware for the cartridge
+was created by RBSC. It is possible to upgrade the firmware when necessary with the help of USB Blaster
+programmer via the JTAG connector.
 
 The benefits of the cartridge include its simple design (only 2 chips and 13 other SMD components), cheap
 production, easy maintenance, flexible configuration options and reliability. The cartridge was designed to use
