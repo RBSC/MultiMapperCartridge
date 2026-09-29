@@ -1,6 +1,6 @@
 G04*
-G04  File:            MULTIMAPPERCART_10.BMS, Tue Jun 26 06:03:33 2018*
-G04  Source:          P-CAD 2006 PCB, Version 19.02.958, (C:\Downloads\MSX\Alex\Новая папка (33)\MultiMapperCart_10.pcb)*
+G04  File:            MMAP02.BMS, Mon Sep 28 21:25:05 2026*
+G04  Source:          P-CAD 2006 PCB, Version 19.00.666, (C:\SAUS\pashaz\Documents\My Documents\MSX\MMAP02.pcb)*
 G04  Format:          Gerber Format (RS-274-D), ASCII*
 G04*
 G04  Format Options:  Absolute Positioning*
@@ -24,7 +24,7 @@ G04                   No Values*
 G04                   No Drill Symbols*
 G04                   Bot Mask*
 G04*
-%INMULTIMAPPERCART_10.BMS*%
+%INMMAP02.BMS*%
 %ICAS*%
 %MOIN*%
 G04*

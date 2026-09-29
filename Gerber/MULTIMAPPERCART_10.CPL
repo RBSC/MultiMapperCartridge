@@ -1,0 +1,39 @@
+P-CAD Component Locations      C:\SAUS\pashaz\Documents\...\MMAP02.pcb
+
+======================================================================
+
+Report Origin = (0.0, 0.0)
+Units used = mil
+RefDes          Layer           LocationX  LocationY  Rotation Fixed
+--------------- --------------- ---------- ---------- -------- -----
+
+C1              Bottom             24000.0    27100.0      0.0 No   
+C2              Bottom             23825.0    26900.0    180.0 No   
+C3              Bottom             23878.5    27400.5    180.0 No   
+C4              Bottom             23878.5    28025.5    180.0 No   
+C5              Top                24950.0    26750.0      0.0 No   
+C6              Bottom             26025.0    27775.0    180.0 No   
+C7              Bottom             26137.5    27437.5    180.0 No   
+JP1             Top                26750.0    27775.0     90.0 No   
+JP2             Top                26750.0    27575.0     90.0 No   
+JP3             Top                26750.0    27375.0     90.0 No   
+JP4             Top                26750.0    27175.0     90.0 No   
+JP5             Top                26750.0    26925.0     90.0 No   
+R1              Bottom             26550.0    28200.0    270.0 No   
+R2              Bottom             26650.0    28200.0    270.0 No   
+R3              Bottom             26750.0    28200.0    270.0 No   
+R4              Bottom             26950.0    28200.0    270.0 No   
+R5              Bottom             26875.0    27875.0    180.0 No   
+R6              Bottom             26875.0    27675.0    180.0 No   
+R7              Bottom             26875.0    27475.0    180.0 No   
+R8              Bottom             26875.0    27275.0    180.0 No   
+R9              Bottom             26875.0    27025.0    180.0 No   
+U1              Top                26137.5    27612.5    180.0 No   
+U2              Top                24700.0    28400.0    270.0 No   
+U3              Top                23625.0    28150.0      0.0 No   
+U4              Top                23525.0    27550.0      0.0 No   
+X1              Top                26600.0    26275.0      0.0 No   
+X2              Top                26550.0    28350.0    180.0 No   
+X3              Top                26275.0    28225.0    270.0 No   
+
+Qty = 28
